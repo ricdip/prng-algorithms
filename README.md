@@ -26,7 +26,7 @@ make build_test
 make run_test
 ```
 
-## Clean
+## Clean executables
 
 ```bash
 make clean
